@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋 I'm Zeki</h1>
 <h3 align="center">An iOS developer from Turkey</h3>
 
-<img align=“right” width=“400” src=“https://s3.gifyu.com/images/BetterFalseKid-max-1mb.gif”>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zekibaklan&label=Profile%20views&color=0e75b6&style=flat" alt="zekibaklan" /> </p>
+
+- 🔭 I’m currently working on **Social Media**
 
 - 🌱 I’m currently learning **Swift**
 
@@ -13,8 +13,12 @@
 
 - 📫 How to reach me **zekibaklan@gmail.com**
 
+- ⚡ Fun fact **I Think I am Funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/zeki baklan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zeki baklan" height="30" width="40" /></a>
+<a href="https://instagram.com/zekibaklan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="zekibaklan" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zekibaklan&show_icons=true&locale=en" alt="zekibaklan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zekibaklan&" alt="zekibaklan" /></p>
-
