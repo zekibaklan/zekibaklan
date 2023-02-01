@@ -1,4 +1,4 @@
-![MasterHead](https://s9.gifyu.com/images/electric-blue-5120x2880px.png)
+![MasterHead](https://s9.gifyu.com/images/Apple_App_Store_10th_anniversary_07102018_big.gif.large.gif)
 <h1 align="center">Hi 👋 I'm Zeki</h1>
 <h3 align="center">An iOS developer from Turkey</h3>
 <img align=“right” width=“400” src=“https://s3.gifyu.com/images/BetterFalseKid-max-1mb.gif”>
